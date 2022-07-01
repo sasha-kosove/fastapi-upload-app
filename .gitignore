@@ -1,0 +1,5 @@
+/venv/
+/.idea/
+/fastapi_upload_app.egg-info/
+/sqlite_db.db
+/test.db
